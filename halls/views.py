@@ -12,7 +12,7 @@ import requests
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth.mixins import LoginRequiredMixin
 
-YOUTUBE_API_KEY='AIzaSyBdtTa0X8JDreIxWS7F2t_GCC9czkyU9r0'
+YOUTUBE_API_KEY=''
 
 # Create your views here.
 def home(request):
